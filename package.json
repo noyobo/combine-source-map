@@ -17,7 +17,7 @@
   "homepage": "https://github.com/thlorenz/combine-source-map",
   "dependencies": {
     "convert-source-map": "~2.0.0",
-    "inline-source-map": "~0.6.0",
+    "@noyobo/inline-source-map": "~0.6.0",
     "lodash.memoize": "~4.1.2",
     "source-map": "~0.5.3"
   },

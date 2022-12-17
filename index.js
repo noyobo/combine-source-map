@@ -3,7 +3,7 @@
 var path            =  require('path');
 var convert         =  require('convert-source-map');
 var memoize         =  require('lodash.memoize');
-var createGenerator =  require('inline-source-map');
+var createGenerator =  require('@noyobo/inline-source-map');
 var pathIsAbsolute  =  require('./lib/path-is-absolute');
 var mappingsFromMap =  require('./lib/mappings-from-map');
 
